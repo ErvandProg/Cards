@@ -1,0 +1,27 @@
+.info_form {
+  width: 300px;
+  margin: 25px auto;
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+}
+
+.lab {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.take_info {
+  padding: 3px;
+  border-radius: 5px;
+  border: 1px solid;
+}
+
+.give_info {
+  padding: 5px 0;
+  border: 1px solid;
+  background-color: white;
+	cursor: pointer;
+  border-radius: 7px;
+}
